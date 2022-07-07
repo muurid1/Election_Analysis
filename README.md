@@ -54,6 +54,13 @@ These are the information imported from the Election's audit:
 
 6) The county with the highest turnout is Denver with a total of 306,055 out of 369,711 votes and a percentage of 82.8 of the votes.
 
+<img width="360" alt="Module-3-Challenge-Election-Results-png" src="https://user-images.githubusercontent.com/107282754/177673153-e3713e95-6f6d-43a9-a5e4-643591531cd3.png">
+
+## Summary of the Election Audit
+
+The sript used for this analysis can be modified to fit any election or any other states.
+The county can be changed and the names of the candidates in the printing statament.
+
 
 
 
